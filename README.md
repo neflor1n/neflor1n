@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @neflor1n
 - 👀 I am interested in computer technology.
-- 🌱 I’m currently learning programming golang/JavaScript/C#/C++/Python/CSS-HTML/Java/Php/C
+- 🌱 I’m currently learning programming golang/JavaScript/C#/C++/Python/CSS-HTML/Java/PHP/C/Kotlin
 - 😄 Pronouns: he/him
 
 <!---
